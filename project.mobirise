@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "vilmisgaming",
-    "currentPage": "Games.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -149,7 +149,7 @@
           },
           "title": "Welcome, gamer!",
           "text": "Welcome to vilmisgaming games. We create, play and stream games.<br>We love gaming. Gaming is our life.<br>If you are gamer you came to right place.&nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Our games</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact us</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Games.html#header1-a\" data-toolbar=\"-mbrBtnMove\">Our games</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact us</a>",
           "_tags": [
             "Theme"
           ],
