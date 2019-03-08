@@ -545,7 +545,8 @@
               "family": "MobiriseIcons",
               "link": "index.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">vilmisgaming games</a>",
@@ -695,7 +696,8 @@
               "family": "MobiriseIcons",
               "link": "index.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">vilmisgaming games</a>",
