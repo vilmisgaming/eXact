@@ -562,7 +562,7 @@
             "showArrow": false,
             "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
