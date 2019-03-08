@@ -724,7 +724,7 @@
           },
           "title": "Connect with us",
           "text": "Here is a few links to get in touch.",
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCe-lVqKfAUhYpwSqhcQDaCQ?\" data-toolbar=\"-mbrBtnMove\">YouTube</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/vilmisgaminggames/\" data-toolbar=\"-mbrBtnMove\">Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Discord server</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Email us</a> ",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCe-lVqKfAUhYpwSqhcQDaCQ?\" data-toolbar=\"-mbrBtnMove\">YouTube</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/vilmisgaminggames/\" data-toolbar=\"-mbrBtnMove\">Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://discord.gg/BWEdg7m\" data-toolbar=\"-mbrBtnMove\">Discord server</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"mailto:vilmisgaminggames@gmail.com\" data-toolbar=\"-mbrBtnMove\">Email us</a> ",
           "_tags": [
             "Theme"
           ],
