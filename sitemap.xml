@@ -1,42 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>http://www.vilmisgaming.com/</loc>
-  <lastmod>2019-03-09T08:19:35+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://www.vilmisgaming.com/index.html</loc>
-  <lastmod>2019-03-09T08:19:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.vilmisgaming.com/Games.html</loc>
-  <lastmod>2019-03-09T08:19:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.vilmisgaming.com/watch.html</loc>
-  <lastmod>2019-03-09T08:19:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.vilmisgaming.com/vilmisgaming.html</loc>
-  <lastmod>2019-03-09T08:19:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.vilmisgaming.com/social.html</loc>
-  <lastmod>2019-03-09T08:19:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://www.vilmisgaming.com/</loc>
+    <lastmod>2019-03-09</lastmod>
+    <changefreq>always</changefreq>
+  </url>
 </urlset>
+<!--<guid value="e3abf462-3fdf-4710-b1d7-3e76751cdfe7" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
