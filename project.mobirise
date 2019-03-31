@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "vilmisgaming",
+    "name": "eXact",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -58,7 +58,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-l\">Our games</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-m\">Watch us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-n\">vilmisgaming</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-o\">Social</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-t\">Esports</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-l\">Our games</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-m\">Watch us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-n\">eXact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-o\">Social</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-t\">Esports</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -113,7 +113,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/newicon-138x128.png",
+              "src": "@PROJECT_PATH@/assets/images/exact-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -129,7 +129,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">vilmisgaming games</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eXact gaming</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0"
         },
@@ -154,7 +154,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Welcome, gamer!",
-          "text": "Welcome to vilmisgaming games. We create, play and stream games.<br>We love gaming. Gaming is our life.<br>If you are gamer you came to right place.&nbsp;",
+          "text": "Welcome to eXact gaming. We create, play and stream games.<br>We love gaming. Gaming is our life.<br>If you are gamer you came to right place.&nbsp;",
           "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"social.html\" data-toolbar=\"-mbrBtnMove\">Social</a> ",
           "_tags": [
             "Theme"
@@ -217,7 +217,7 @@
             }
           },
           "title": "Survive In The Cosmos",
-          "text": "Survive In The Cosmos is a surviving in space game created by vilmisgaming Games.\nIn this game you will have to survive in space without touching planets or asteroids (your choice).\n<br>You will also need to place bombs to detonate enemies, so you can get a score. &nbsp;Its aviable on google play for free",
+          "text": "Survive In The Cosmos is a surviving in space game created by eXact gaming.\nIn this game you will have to survive in space without touching planets or asteroids (your choice).\n<br>You will also need to place bombs to detonate enemies, so you can get a score. &nbsp;Its aviable on google play for free",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://play.google.com/store/apps/details?id=air.SITC&amp;hl=en\" data-toolbar=\"-mbrBtnMove\">Get it</a> ",
           "_tags": [
             "Theme"
@@ -249,7 +249,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "vilmisgaming Esports",
+          "title": "eXact Esports",
           "text": "We are searching for a people like you who wants to make your free time activity - gaming a fun and rewarding job. Yes. Thats eSports. If you play PUBG mobile, you can join us. Make dreams come true.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"mailto:vilmisgaminggames@gmail.com\" data-toolbar=\"-mbrBtnMove\">Join us</a> ",
           "_tags": [
@@ -312,7 +312,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/32460639-905419999659756-8117970033231003648-n-640x640.jpg",
+              "src": "@PROJECT_PATH@/assets/images/main-photo-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -329,8 +329,8 @@
               "size": 250
             }
           },
-          "title": "Vilmantas Varnauskas (vilmisgaming)",
-          "text": "Vilmantas Varnauskas is a creator of vilmisgaming Games. Vilmantas is <br>a gamer, like you and knows whats best for gamers. Vilmantas makes livestreams with games like PUBG mobile and Hitman 2.",
+          "title": "Vilmantas Varnauskas (eXact)",
+          "text": "Vilmantas Varnauskas is a creator of eXact gaming. Vilmantas is <br>a gamer, like you and knows whats best for gamers. Vilmantas makes livestreams with games like PUBG mobile and Hitman 2.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
             "Theme"
@@ -393,7 +393,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "vilmisgaming eSports, a new project by vilmisgaming Games has just launched! Press eSports from menu to learn more!",
+          "text": "eXact eSports, a new project by eXact gaming has just launched! Press eSports from menu to learn more!",
           "_tags": [
             "Theme"
           ],
