@@ -207,7 +207,7 @@
               "active": true,
               "src": "https://www.youtube.com/watch?v=qtqFggpF5Yo",
               "aspectratio": "16:9",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": false
             },
             "iconFont": {
