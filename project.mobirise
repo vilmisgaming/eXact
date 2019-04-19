@@ -154,7 +154,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Welcome, gamer!",
-          "text": "Welcome to eXact gaming. We create, play and stream games.<br>We love gaming. Gaming is our life.<br>If you are gamer you came to right place.&nbsp;",
+          "text": "Welcome to eXact gaming. We create, play and stream games.<br>We love gaming. Gaming is our life.<br>If you are a gamer you came to right place.&nbsp;",
           "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"social.html\" data-toolbar=\"-mbrBtnMove\">Social</a> ",
           "_tags": [
             "Theme"
@@ -217,7 +217,7 @@
             }
           },
           "title": "Survive In The Cosmos",
-          "text": "Survive In The Cosmos is a surviving in space game created by eXact gaming.\nIn this game you will have to survive in space without touching planets or asteroids (your choice).\n<br>You will also need to place bombs to detonate enemies, so you can get a score. &nbsp;Its aviable on google play for free",
+          "text": "Survive In The Cosmos is a surviving in space game created by eXact gaming.\nIn this game you will have to survive in space without touching planets or asteroids (your choice).\n<br>You will also need to place bombs to detonate enemies, so you can get a score. &nbsp;It's aviable on google play for free",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://play.google.com/store/apps/details?id=air.SITC&amp;hl=en\" data-toolbar=\"-mbrBtnMove\">Get it</a> ",
           "_tags": [
             "Theme"
@@ -250,7 +250,7 @@
             "overlayOpacity": 0.5
           },
           "title": "eXact Esports",
-          "text": "We are searching for a people like you who wants to make your free time activity - gaming a fun and rewarding job. Yes. Thats eSports. If you play PUBG mobile, you can join us. Make dreams come true.",
+          "text": "We are searching for &nbsp;people like you who wants to make their free time activity - gaming a fun and rewarding job. Yes. That's eSports. If you play PUBG mobile, you can join us. Make dreams come true.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"mailto:vilmisgaminggames@gmail.com\" data-toolbar=\"-mbrBtnMove\">Join us</a> ",
           "_tags": [
             "Theme"
@@ -279,7 +279,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Watch us on YouTube!",
-          "text": "We make livestreams in english and play lots of games!<br>Won't you come and subscribe?",
+          "text": "We make livestreams in English and play lots of games!<br>Will you come and subscribe?",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/channel/UCe-lVqKfAUhYpwSqhcQDaCQ?\" data-toolbar=\"-mbrBtnMove\">Watch us</a> ",
           "_tags": [
             "Theme"
@@ -330,7 +330,7 @@
             }
           },
           "title": "Vilmantas Varnauskas (eXact)",
-          "text": "Vilmantas Varnauskas is a creator of eXact gaming. Vilmantas is <br>a gamer, like you and knows whats best for gamers. Vilmantas makes livestreams with games like PUBG mobile and Hitman 2.",
+          "text": "Vilmantas Varnauskas is a creator of eXact gaming. Vilmantas is <br>a gamer, like you and knows what's best for gamers. Vilmantas makes livestreams with games like PUBG mobile and Hitman 2.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
             "Theme"
@@ -359,7 +359,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Connect with us",
-          "text": "Here is a few links to get in touch.",
+          "text": "Here are a few links to get in touch.",
           "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UCe-lVqKfAUhYpwSqhcQDaCQ?\" data-toolbar=\"-mbrBtnMove\">YouTube</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.facebook.com/vilmisgaminggames/\" data-toolbar=\"-mbrBtnMove\">Facebook</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://discord.gg/BWEdg7m\" data-toolbar=\"-mbrBtnMove\">Discord server</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"mailto:exact@exactgaming.net\" data-toolbar=\"-mbrBtnMove\">Email us</a> ",
           "_tags": [
             "Theme"
