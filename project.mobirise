@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#f64690",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "warningColor": "#7289da",
+        "dangerColor": "#f64690",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -20,15 +20,18 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#f64690",
+        "#7289da"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 29,
-    "versionPublish": "4.9.6",
+    "uniqCompNum": 30,
+    "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135970428-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-135970428-1');\r\n</script>\r\n"
   },
@@ -58,7 +61,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-m\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-m\">eSports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-n\">Watch us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-o\">eXact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-t\">Social</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-m\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-m\">eSports</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-n\">Watch us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-o\">Isaac</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-o\">eXact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-t\">Social</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -228,6 +231,67 @@
           ],
           "_name": "header1",
           "_anchor": "header1-m"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/brain-natural-os-by-gleb.gif",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Introducing Isaac",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Have you ever dreamt of a companion like Jarvis from Iron Man? Well, the wait is over, because Isaac the A.I. powered virtual gaming  assistant is here! Just use your voice to create content or find sponsors, and you will see a new dimension of content creation, streaming and eSports.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://hallid.ai/?referrer_id=1730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://discord.gg/7N4b5t\" data-toolbar=\"-mbrBtnMove\">JOIN DISCORD</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/simon-zhu-983185-unsplash-2000x2500.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "EARLY ACCESS PROGRAM",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Are you up for a little competition? Upon Signup, you will receive a code, that you can share with your friends. The more friends sign up with your code, the better your chances will be to get into the famous “300” Beta testers. Sounds exciting?",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://hallid.ai/?referrer_id=1730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/javier-penas-1284462-unsplash-2000x1217.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "ISAAC NEEDS YOU",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "With Isaac we are at the beginning of our journey to create a truly awesome personalized, virtual gaming assistant for everyone. And with the help of all you gamers we can make this happen. We will start small but make sure to build Isaac in a way so he will not disappoint you.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://discord.gg/7N4b5t\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN DISCORD</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-t"
         },
         {
           "_params": {
