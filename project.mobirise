@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#f64690",
+        "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#7289da",
-        "dangerColor": "#f64690",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -20,17 +20,14 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": [
-        "#f64690",
-        "#7289da"
-      ]
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 30,
+    "uniqCompNum": 29,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135970428-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-135970428-1');\r\n</script>\r\n"
@@ -234,17 +231,17 @@
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": 5,
+            "timeout": "10",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/brain-natural-os-by-gleb.gif",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -254,7 +251,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Have you ever dreamt of a companion like Jarvis from Iron Man? Well, the wait is over, because Isaac the A.I. powered virtual gaming  assistant is here! Just use your voice to create content or find sponsors, and you will see a new dimension of content creation, streaming and eSports.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://hallid.ai/?referrer_id=1730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://discord.gg/7N4b5t\" data-toolbar=\"-mbrBtnMove\">JOIN DISCORD</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://hallid.ai/?referrer_id=1730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://discord.gg/7N4b5t\" data-toolbar=\"-mbrBtnMove\">JOIN DISCORD</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/simon-zhu-983185-unsplash-2000x2500.jpg",
@@ -268,11 +265,11 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Are you up for a little competition? Upon Signup, you will receive a code, that you can share with your friends. The more friends sign up with your code, the better your chances will be to get into the famous “300” Beta testers. Sounds exciting?",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://hallid.ai/?referrer_id=1730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://hallid.ai/?referrer_id=1730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/javier-penas-1284462-unsplash-2000x1217.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
