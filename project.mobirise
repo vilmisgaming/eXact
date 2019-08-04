@@ -27,7 +27,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 32,
+    "uniqCompNum": 29,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135970428-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-135970428-1');\r\n</script>\r\n"
@@ -166,35 +166,6 @@
               "text-align": "center"
             }
           }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "eXact Play",
-          "text": "eXact Play is a new project by eXact eSports and eXact gaming.<br>It's a free, no-prize tournament system, built to train your skills.<br>We use free games like pubg mobile and make competition out of them.<br>So come in and join the action!<br>NOTE: EXACT PLAY SYSTEM IS IN BETA. SO EXPECT BUGS!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://play.exactgaming.net\" data-toolbar=\"-mbrBtnMove\">Enter eXact Play</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-t"
         },
         {
           "_inherit": "header1",
