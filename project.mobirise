@@ -252,67 +252,6 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": "10",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/brain-natural-os-by-gleb.gif",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Introducing Isaac",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Have you ever dreamt of a companion like Jarvis from Iron Man? Well, the wait is over, because Isaac the A.I. powered virtual gaming  assistant is here! Just use your voice to create content or find sponsors, and you will see a new dimension of content creation, streaming and eSports.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://hallid.ai/?referrer_id=1730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://discord.gg/7N4b5t\" data-toolbar=\"-mbrBtnMove\">JOIN DISCORD</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/simon-zhu-983185-unsplash-2000x2500.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "EARLY ACCESS PROGRAM",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Are you up for a little competition? Upon Signup, you will receive a code, that you can share with your friends. The more friends sign up with your code, the better your chances will be to get into the famous “300” Beta testers. Sounds exciting?",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://hallid.ai/?referrer_id=1730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/javier-penas-1284462-unsplash-2000x1217.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "ISAAC NEEDS YOU",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "With Isaac we are at the beginning of our journey to create a truly awesome personalized, virtual gaming assistant for everyone. And with the help of all you gamers we can make this happen. We will start small but make sure to build Isaac in a way so he will not disappoint you.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://discord.gg/7N4b5t\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN DISCORD</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-t"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
