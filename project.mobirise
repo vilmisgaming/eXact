@@ -27,7 +27,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135970428-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-135970428-1');\r\n</script>\r\n"
@@ -181,12 +181,12 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "header1-t"
         },
         {
           "_inherit": "header1",
