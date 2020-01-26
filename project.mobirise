@@ -322,7 +322,7 @@
           "_anchor": "content1-w",
           "_styles": {
             "DIV": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           }
         },
@@ -332,7 +332,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_params": {
