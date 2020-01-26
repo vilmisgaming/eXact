@@ -329,8 +329,8 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "postToLoad": "10",
             "facebookToken": "",
             "facebook": "",
