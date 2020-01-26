@@ -307,6 +307,19 @@
           "_anchor": "header1-o"
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>eXact eSports, a new project by eXact gaming is here! Press eSports at the top menu to learn more.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -325,19 +338,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-q"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>eXact eSports, a new project by eXact gaming is here! Press eSports at the top menu to learn more.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-w"
         }
       ]
     }
