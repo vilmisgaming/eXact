@@ -329,9 +329,9 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "postToLoad": "10",
             "facebookToken": "",
             "facebook": "",
             "twitter": "exactgamer",
