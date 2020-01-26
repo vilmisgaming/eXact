@@ -325,31 +325,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-q"
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "postToLoad": "10",
-            "facebookToken": "",
-            "facebook": "",
-            "twitter": "eXact",
-            "youtube": "",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-u"
         }
       ]
     }
