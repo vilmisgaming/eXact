@@ -129,7 +129,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eXact gaming</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eXact gaming BETA</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-z"
         },
@@ -192,7 +192,7 @@
             "overlayOpacity": 0.5
           },
           "title": "eXact Esports",
-          "text": "We are searching for &nbsp;people like you who wants to make their free time activity - gaming a fun and rewarding job. Yes. That's eSports. If you play PUBG mobile, you can join us. Make dreams come true.",
+          "text": "We are searching for people like you who wants to make their free time activity - gaming a fun and rewarding job. Yes. That's eSports. If you play PUBG mobile, you can join us. Make dreams come true.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"mailto:vilmisgaminggames@gmail.com\" data-toolbar=\"-mbrBtnMove\">Join us</a> ",
           "_tags": [
             "Theme"
@@ -288,7 +288,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1296.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -313,7 +313,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#282828"
+            "bgColor": "#ffffff"
           },
           "text": "eXact eSports, a new project by eXact gaming is here! Press eSports at the top menu to learn more.",
           "_tags": [
@@ -323,7 +323,7 @@
           "_anchor": "content1-w",
           "_styles": {
             "DIV": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
@@ -333,14 +333,14 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#282828"
+            "bgColor": "#ffffff"
           },
           "title": "News",
           "meta": "",
