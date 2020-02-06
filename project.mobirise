@@ -154,7 +154,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Welcome, gamer!",
-          "text": "Welcome to eXact gaming. We create, play and stream games.<br>We love gaming. Gaming is our life.<br>If you are a gamer you came to right place.&nbsp;",
+          "text": "Welcome to eXact gaming. We create, play and stream games.<br>We love gaming. Gaming is our life.<br>If you are a gamer you came to the right place.&nbsp;",
           "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"social.html\" data-toolbar=\"-mbrBtnMove\">Social</a> ",
           "_tags": [
             "Theme"
