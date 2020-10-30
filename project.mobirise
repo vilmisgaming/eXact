@@ -32,10 +32,10 @@
     "uniqCompNum": 32,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135970428-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-135970428-1');\r\n</script>\r\n<!--Start of Tawk.to Script-->\r\n<script type=\"text/javascript\">\r\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\r\n(function(){\r\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\r\ns1.async=true;\r\ns1.src='https://embed.tawk.to/5cb861efc1fe2560f3ff700e/default';\r\ns1.charset='UTF-8';\r\ns1.setAttribute('crossorigin','*');\r\ns0.parentNode.insertBefore(s1,s0);\r\n})();\r\n</script>\r\n<!--End of Tawk.to Script-->\r\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135970428-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-135970428-1');\n</script>",
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on",
+    "sitemapSwitcher": false,
     "imageResize": true,
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -48,7 +48,7 @@
       "settings": {
         "main": true,
         "title": "eXact gaming",
-        "meta_descr": "Gaming / eSports community. Love gaming? Come in!",
+        "meta_descr": "We are gamers. We love gaming. We are gaming.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
